@@ -3,3 +3,4 @@ console.log('flintvnn account with another branch');
 console.log('add new line make conflict ');
 console.log('add with master branch with flintvnn');
 console.log('newline added by hvphuong');
+console.log('flintvnn write this');

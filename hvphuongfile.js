@@ -1,1 +1,1 @@
-console.log('this is write by flintvnn@gmail.com');
+console.log('this is actually written by flintvnn@gmail.com');
